@@ -3,7 +3,7 @@
 
 Overview
 This project demonstrates how to implement form validation using JavaScript.
-
+This project is made while learning the advanced topics of JavaScript.
 
 Features
 Real-time validation: Immediate feedback on user inputs.
