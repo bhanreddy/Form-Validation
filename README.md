@@ -2,7 +2,8 @@
 
 
 Overview
-This project demonstrates how to implement client-side form validation using JavaScript. The goal is to ensure that all user inputs are accurate and meet specific criteria before being submitted to the server.
+This project demonstrates how to implement form validation using JavaScript.
+
 
 Features
 Real-time validation: Immediate feedback on user inputs.
